@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>You're Unsubscribed</title>
+    <meta charset="UTF-8" />
+    <style>
+      body {
+        text-align: center;
+        padding: 40px;
+        font-family: sans-serif;
+        background-color: #fef3f3;
+      }
+      h1 {
+        color: #e74c3c;
+      }
+      a {
+        color: #007bff;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>❌ You're Unsubscribed</h1>
+    <p>You’ve been removed from our mailing list.</p>
+    <p>
+      Want to re-subscribe? <br />
+      <a id="subscribeLink" href="#">Click here</a>
+    </p>
+
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const contactId = params.get("contactId");
+
+      if (contactId) {
+        document.getElementById("subscribeLink").href = `/go-subscribe.html?contactId=${contactId}`;
+      } else {
+        document.getElementById("subscribeLink").innerText = "Missing ID";
+      }
+    </script>
+  </body>
+</html>

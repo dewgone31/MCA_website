@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Unsubscribing...</title>
+    <meta charset="UTF-8" />
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+      const contactId = urlParams.get('contactId');
+
+      if (contactId) {
+        const targetUrl = `https://n8n.srv857234.hstgr.cloud/webhook/51b006d2-b792-4de5-9aca-daaaf093840d/unsubscribe/${contactId}`;
+        window.location.href = targetUrl;
+      } else {
+        document.write("Missing contact ID");
+      }
+    </script>
+  </head>
+  <body>
+    <p>Unsubscribing...</p>
+  </body>
+</html>

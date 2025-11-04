@@ -1,0 +1,151 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Goldrock Financial Web Style & Design Rules
+
+## 1. Brand & Color Theme
+- **Primary Color:** Use a rich gold/yellow (#FFD700 or similar, matching your logo) for accents, icons, buttons, and highlights.
+- **Secondary Color:** Use deep black or charcoal (#222 or #000) for headers, navigation, and text.
+- **Background:** Use white (#FFF) or very light gray (#F9F9F9) for backgrounds to keep the site clean and modern.
+- **Accent Colors:** Use subtle grays for borders, dividers, and secondary text.
+- **Logo Usage:** Always display the Goldrock Financial logo in the header and footer. Maintain clear space around the logo and do not alter its colors.
+
+## 2. Typography
+- **Font Family:** Use a modern, clean sans-serif font (e.g., Montserrat, Open Sans, or similar).
+- **Headings:** Use bold, uppercase headings for main sections (e.g., H1, H2).
+- **Body Text:** Use regular weight, high-contrast text for readability.
+- **Button/Text Links:** Use the gold color for primary actions and hover states.
+
+## 3. Layout & Structure
+- **Navigation:** Sticky top navigation bar with clear links (Home, About Us, Services, FAQ, Contact).
+- **Hero Section:** Prominent hero section with a bold headline, subheadline, and a clear call-to-action button (e.g., "Apply Now").
+- **Sections:** Use clear, distinct sections for services, process, testimonials, and contact.
+- **Cards/Boxes:** Use card-style boxes with subtle shadows for service offerings (e.g., Term Loan, Line of Credit).
+- **Footer:** Include contact info, quick links, and logo in the footer.
+
+## 4. Imagery & Icons
+- **Imagery:** Use high-quality, business-related images (e.g., professionals, offices, cityscapes).
+- **Icons:** Use simple, line-style icons in gold or black for features and benefits.
+
+## 5. Buttons & CTAs
+- **Primary Button:** Gold background with black or white text, rounded corners, bold font.
+- **Secondary Button:** Black or dark background with gold border/text.
+- **Hover Effects:** Slight shadow or color darkening on hover.
+
+## 6. Forms
+- **Input Fields:** Rounded corners, subtle border, clear labels.
+- **Button:** Gold with bold text.
+- **Validation:** Clear error messages in red, success in green.
+
+## 7. Responsiveness
+- **Mobile First:** Ensure all layouts adapt gracefully to mobile devices.
+- **Navigation:** Use a hamburger menu on mobile.
+- **Touch Targets:** Make buttons and links large enough for easy tapping.
+
+## 8. Accessibility
+- **Contrast:** Ensure sufficient color contrast for all text and interactive elements.
+- **Alt Text:** Provide descriptive alt text for all images and icons.
+- **Keyboard Navigation:** All interactive elements must be accessible via keyboard.
+
+## 9. Content & Tone
+- **Voice:** Professional, confident, and approachable.
+- **Headlines:** Action-oriented and benefit-focused (e.g., "Get your business loan deposited within 24 hours").
+- **Trust Signals:** Highlight experience, speed, and customer service.
+
+## 10. Consistency
+- **Spacing:** Use consistent padding and margin throughout.
+- **Component Reuse:** Use shared components for buttons, cards, and forms.
+- **Style Guide:** Document all colors, fonts, and component styles for future reference.
+
+# GoldRock Web Project Rules
+
+## Project Structure
+- All source code should be organized in the `src` directory
+- Components should be placed in `src/components`
+- Pages should be placed in `src/pages`
+- Styles should be placed in `src/styles`
+- Utilities and helpers should be placed in `src/utils`
+- API-related code should be placed in `src/api`
+- Types and interfaces should be placed in `src/types`
+
+## Code Style
+- Use TypeScript for all new code
+- Follow ESLint and Prettier configurations
+- Use functional components with hooks
+- Implement proper type definitions for all props and state
+- Use meaningful variable and function names
+- Add JSDoc comments for complex functions and components
+
+## Component Guidelines
+- Keep components small and focused on a single responsibility
+- Use proper prop types and default props
+- Implement error boundaries where necessary
+- Follow atomic design principles
+- Use CSS modules or styled-components for styling
+- Ensure components are responsive and accessible
+
+## State Management
+- Use React Context for global state
+- Implement proper state initialization
+- Handle loading and error states
+- Use proper state update patterns
+- Implement proper data fetching patterns
+
+## Testing
+- Write unit tests for all components
+- Implement integration tests for critical user flows
+- Maintain good test coverage
+- Use proper testing utilities and mocks
+- Follow testing best practices
+
+## Performance
+- Implement proper code splitting
+- Optimize images and assets
+- Use proper caching strategies
+- Implement lazy loading where appropriate
+- Monitor and optimize bundle size
+
+## Security
+- Implement proper authentication and authorization
+- Sanitize user inputs
+- Use environment variables for sensitive data
+- Follow security best practices
+- Implement proper CORS policies
+
+## Documentation
+- Maintain up-to-date README
+- Document complex business logic
+- Add inline comments for non-obvious code
+- Keep documentation in sync with code changes
+- Use proper commit messages
+
+## Git Workflow
+- Use feature branches
+- Follow conventional commits
+- Create pull requests for all changes
+- Require code reviews
+- Keep commits atomic and focused
+
+## Build and Deployment
+- Use proper environment configurations
+- Implement CI/CD pipelines
+- Follow deployment best practices
+- Monitor application performance
+- Implement proper logging
+
+## Accessibility
+- Follow WCAG guidelines
+- Implement proper ARIA attributes
+- Ensure keyboard navigation
+- Test with screen readers
+- Maintain proper color contrast
+
+## Browser Support
+- Support modern browsers
+- Implement proper polyfills
+- Test across different browsers
+- Handle browser-specific issues
+
+- Maintain cross-browser compatibility 

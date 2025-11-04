@@ -1,0 +1,45 @@
+:root {
+  /* Primary Brand Colors */
+  --color-gold-primary: var(--env-gold-primary, #FFD700);
+  --color-gold-hover: var(--env-gold-hover, #FFC800);
+  --color-gold-logo: var(--env-gold-logo, #E9BC0A);
+  
+  /* Text & Dark Colors */
+  --color-text-primary: var(--env-text-primary, #222);
+  --color-text-black: var(--env-text-black, #000);
+  --color-bg-dark: var(--env-bg-dark, #111);
+  
+  /* Background Colors */
+  --color-bg-white: var(--env-bg-white, #fff);
+  --color-bg-light: var(--env-bg-light, #F9F9F9);
+  --color-bg-lighter: var(--env-bg-lighter, #fafafa);
+  --color-bg-gold-light: var(--env-bg-gold-light, #FFF8E1);
+  
+  /* Secondary Text Colors */
+  --color-text-secondary: var(--env-text-secondary, #555);
+  --color-text-muted: var(--env-text-muted, #666);
+  --color-text-faq: var(--env-text-faq, #444);
+  
+  /* Status Colors */
+  --color-success: var(--env-success, #4CAF50);
+  --color-error: var(--env-error, #f44336);
+  --color-error-alt: var(--env-error-alt, #e32);
+  
+  /* UI Element Colors */
+  --color-border: var(--env-border, #e0e0e0);
+  --color-disabled-bg: var(--env-disabled-bg, #f5f5f5);
+  --color-disabled-text: var(--env-disabled-text, #999);
+  
+  /* Transparency Effects */
+  --shadow-light: var(--env-shadow-light, rgba(0,0,0,0.05));
+  --shadow-medium: var(--env-shadow-medium, rgba(0,0,0,0.07));
+  --shadow-standard: var(--env-shadow-standard, rgba(0,0,0,0.08));
+  --shadow-heavy: var(--env-shadow-heavy, rgba(0,0,0,0.10));
+  --shadow-dropdown: var(--env-shadow-dropdown, rgba(0,0,0,0.12));
+  --shadow-gold-focus: var(--env-shadow-gold-focus, rgba(255, 215, 0, 0.1));
+  --shadow-gold-hover: var(--env-shadow-gold-hover, rgba(255, 215, 0, 0.15));
+  --shadow-gold-button: var(--env-shadow-gold-button, rgba(255, 215, 0, 0.2));
+  --overlay-hero: var(--env-overlay-hero, rgba(0, 0, 0, 0.7));
+  --overlay-mobile: var(--env-overlay-mobile, rgba(0, 0, 0, 0.9));
+  --overlay-icon: var(--env-overlay-icon, rgba(255,255,255,0.08));
+} 

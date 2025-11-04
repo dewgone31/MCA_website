@@ -1,0 +1,228 @@
+
+GREEN EDGE---------------------------------------------------------------------------------------------
+
+# SalesForce
+NEXT_PUBLIC_SF_LINK="https://businesscapital.my.site.com/application/s/?linkId=a2tQk000001d6xp"
+
+# Brand
+NEXT_PUBLIC_COMPANY_NAME="Green Edge Matrix"
+
+# Homepage hero
+NEXT_PUBLIC_HERO_BG_IMAGE="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg"
+
+# Logo
+NEXT_PUBLIC_LOGO_PATH="/images/GreenEdge-logo-white.svg"
+NEXT_PUBLIC_FAVICON_PATH="/images/GreenEdge-black.svg"
+NEXT_PUBLIC_LOGO_HEIGHT="40px"
+NEXT_PUBLIC_LOGO_WIDTH="auto"
+
+# Mobile logo (simplified)
+NEXT_PUBLIC_MOBILE_LOGO_PATH="/images/GreenEdge-secondary.svg"
+NEXT_PUBLIC_MOBILE_LOGO_HEIGHT="40px"
+
+# Contact Information
+NEXT_PUBLIC_CONTACT_ADDRESS="88 Pine Street"
+NEXT_PUBLIC_CONTACT_CITY="New York, NY 10005"
+NEXT_PUBLIC_CONTACT_PHONE="(917) 744-4376"
+NEXT_PUBLIC_CONTACT_EMAIL="info@mail.greenedgematrix.com"
+NEXT_PUBLIC_CONTACT_HOURS_WEEKDAYS="Monday-Thursday: 9AM to 7PM"
+NEXT_PUBLIC_CONTACT_HOURS_FRIDAY="Friday: 9AM to 4PM"
+
+# Primary Brand Colors (replacing gold with green)
+NEXT_PUBLIC_COLOR_GOLD_PRIMARY="#18853b"
+NEXT_PUBLIC_COLOR_GOLD_HOVER="#12632C"
+NEXT_PUBLIC_COLOR_GOLD_LOGO="#00A085"
+
+# Text & Dark Colors (keeping black theme)
+NEXT_PUBLIC_COLOR_TEXT_PRIMARY="#222"
+NEXT_PUBLIC_COLOR_TEXT_BLACK="#000"
+NEXT_PUBLIC_COLOR_BG_DARK="#111"
+
+# Background Colors
+NEXT_PUBLIC_COLOR_BG_WHITE="#f5f5f5"
+NEXT_PUBLIC_COLOR_BG_LIGHT="#e0e0e0"
+NEXT_PUBLIC_COLOR_BG_LIGHTER="#eeeeee"
+NEXT_PUBLIC_COLOR_BG_GOLD_LIGHT="#e8f5e8"
+
+# Secondary Text Colors
+NEXT_PUBLIC_COLOR_TEXT_SECONDARY="#555"
+NEXT_PUBLIC_COLOR_TEXT_MUTED="#666"
+NEXT_PUBLIC_COLOR_TEXT_FAQ="#444"
+
+# Status Colors
+NEXT_PUBLIC_COLOR_SUCCESS="#00D4AA"
+NEXT_PUBLIC_COLOR_ERROR="#f44336"
+NEXT_PUBLIC_COLOR_ERROR_ALT="#e32"
+
+# UI Element Colors
+NEXT_PUBLIC_COLOR_BORDER="#e0e0e0"
+NEXT_PUBLIC_COLOR_DISABLED_BG="#f5f5f5"
+NEXT_PUBLIC_COLOR_DISABLED_TEXT="#999"
+
+# Shadow Opacities
+NEXT_PUBLIC_SHADOW_LIGHT_OPACITY="0.05"
+NEXT_PUBLIC_SHADOW_MEDIUM_OPACITY="0.07"
+NEXT_PUBLIC_SHADOW_STANDARD_OPACITY="0.08"
+NEXT_PUBLIC_SHADOW_HEAVY_OPACITY="0.10"
+NEXT_PUBLIC_SHADOW_DROPDOWN_OPACITY="0.12"
+NEXT_PUBLIC_SHADOW_GOLD_FOCUS_OPACITY="0.1"
+NEXT_PUBLIC_SHADOW_GOLD_HOVER_OPACITY="0.15"
+NEXT_PUBLIC_SHADOW_GOLD_BUTTON_OPACITY="0.2"
+
+# Overlay Opacities
+NEXT_PUBLIC_OVERLAY_HERO_OPACITY="0.7"
+NEXT_PUBLIC_OVERLAY_MOBILE_OPACITY="0.9"
+NEXT_PUBLIC_OVERLAY_ICON_OPACITY="0.08"
+
+BLACK MATRIX -------------------------------------------------------------------------------------------------------
+
+# SalesForce
+NEXT_PUBLIC_SF_LINK="https://businesscapital.my.site.com/application/s/?linkId=a2tQk000001d6xp"
+
+# Brand
+NEXT_PUBLIC_COMPANY_NAME="Black Matrix Financial"
+
+# Homepage hero
+NEXT_PUBLIC_HERO_BG_IMAGE="/images/blackmatrixbg.png" # (Replace with a more fitting image if desired)
+
+# Logo
+NEXT_PUBLIC_LOGO_PATH="/images/blackmatrix-logo-white.svg"         # Update with your actual logo file path
+NEXT_PUBLIC_FAVICON_PATH="/images/blackmatrix-logo-black.svg"   # Update with your actual favicon file path
+NEXT_PUBLIC_LOGO_HEIGHT="75px"
+NEXT_PUBLIC_LOGO_WIDTH="auto"
+
+# Mobile logo (simplified)
+
+NEXT_PUBLIC_MOBILE_LOGO_HEIGHT="40px"
+
+# Contact Information
+NEXT_PUBLIC_CONTACT_ADDRESS="88 Pine Street"
+NEXT_PUBLIC_CONTACT_CITY="New York, NY 10005"
+NEXT_PUBLIC_CONTACT_PHONE="(917) 744-4376"
+NEXT_PUBLIC_CONTACT_EMAIL="info@mail.blackmatrix.com"
+NEXT_PUBLIC_CONTACT_HOURS_WEEKDAYS="Monday-Thursday: 9AM to 7PM"
+NEXT_PUBLIC_CONTACT_HOURS_FRIDAY="Friday: 9AM to 4PM"
+
+# Primary Brand Colors (magenta/purple for Black Matrix)
+NEXT_PUBLIC_COLOR_GOLD_PRIMARY="#D100FF"      # Magenta/Purple (main accent)
+NEXT_PUBLIC_COLOR_GOLD_HOVER="#A000C7"        # Darker magenta for hover
+NEXT_PUBLIC_COLOR_GOLD_LOGO="#D100FF"         # Use same as primary for logo accents
+
+# Text & Dark Colors (keeping black theme)
+NEXT_PUBLIC_COLOR_TEXT_PRIMARY="#222"
+NEXT_PUBLIC_COLOR_TEXT_BLACK="#000"
+NEXT_PUBLIC_COLOR_BG_DARK="#111"
+
+# Background Colors
+NEXT_PUBLIC_COLOR_BG_WHITE="#f5f5f5"
+NEXT_PUBLIC_COLOR_BG_LIGHT="#e0e0e0"
+NEXT_PUBLIC_COLOR_BG_LIGHTER="#eeeeee"
+NEXT_PUBLIC_COLOR_BG_GOLD_LIGHT="#f3e6fa"     # Very light purple for subtle backgrounds
+
+# Secondary Text Colors
+NEXT_PUBLIC_COLOR_TEXT_SECONDARY="#555"
+NEXT_PUBLIC_COLOR_TEXT_MUTED="#666"
+NEXT_PUBLIC_COLOR_TEXT_FAQ="#444"
+
+# Status Colors
+NEXT_PUBLIC_COLOR_SUCCESS="#00D4AA"
+NEXT_PUBLIC_COLOR_ERROR="#f44336"
+NEXT_PUBLIC_COLOR_ERROR_ALT="#e32"
+
+# UI Element Colors
+NEXT_PUBLIC_COLOR_BORDER="#e0e0e0"
+NEXT_PUBLIC_COLOR_DISABLED_BG="#f5f5f5"
+NEXT_PUBLIC_COLOR_DISABLED_TEXT="#999"
+
+# Shadow Opacities
+NEXT_PUBLIC_SHADOW_LIGHT_OPACITY="0.05"
+NEXT_PUBLIC_SHADOW_MEDIUM_OPACITY="0.07"
+NEXT_PUBLIC_SHADOW_STANDARD_OPACITY="0.08"
+NEXT_PUBLIC_SHADOW_HEAVY_OPACITY="0.10"
+NEXT_PUBLIC_SHADOW_DROPDOWN_OPACITY="0.12"
+NEXT_PUBLIC_SHADOW_GOLD_FOCUS_OPACITY="0.1"
+NEXT_PUBLIC_SHADOW_GOLD_HOVER_OPACITY="0.15"
+NEXT_PUBLIC_SHADOW_GOLD_BUTTON_OPACITY="0.2"
+
+# Overlay Opacities
+NEXT_PUBLIC_OVERLAY_HERO_OPACITY="0.7"
+NEXT_PUBLIC_OVERLAY_MOBILE_OPACITY="0.9"
+NEXT_PUBLIC_OVERLAY_ICON_OPACITY="0.08"
+
+greystar -------------------------------------------------------------------------------------------------
+
+# SalesForce
+NEXT_PUBLIC_SF_LINK="https://businesscapital.my.site.com/application/s/?linkId=a2tQk000001d6xp"
+
+# Brand
+NEXT_PUBLIC_COMPANY_NAME="Grey Star Financial"
+
+# Homepage hero
+NEXT_PUBLIC_HERO_BG_IMAGE="https://images.pexels.com/photos/362564/pexels-photo-362564.jpeg" # Swap for a lighter/cleaner image if desired
+
+# Logo
+NEXT_PUBLIC_LOGO_PATH="/images/greystar.svg"
+NEXT_PUBLIC_FAVICON_PATH="/images/greystar.svg"
+NEXT_PUBLIC_LOGO_HEIGHT="80px"
+NEXT_PUBLIC_LOGO_WIDTH="auto"
+
+# Mobile logo (simplified)
+NEXT_PUBLIC_MOBILE_LOGO_HEIGHT="40px"
+
+# Contact Information
+NEXT_PUBLIC_CONTACT_ADDRESS="88 Pine Street"
+NEXT_PUBLIC_CONTACT_CITY="New York, NY 10005"
+NEXT_PUBLIC_CONTACT_PHONE="(917) 744-4376"
+NEXT_PUBLIC_CONTACT_EMAIL="info@mail.greystarfinancial.com"
+NEXT_PUBLIC_CONTACT_HOURS_WEEKDAYS="Monday-Thursday: 9AM to 7PM"
+NEXT_PUBLIC_CONTACT_HOURS_FRIDAY="Friday: 9AM to 4PM"
+
+# Primary Brand Colors (light theme)
+NEXT_PUBLIC_COLOR_GOLD_PRIMARY="#b0b0b0"      # Light grey for accents (star)
+NEXT_PUBLIC_COLOR_GOLD_HOVER="#a0a0a0"        # Slightly darker grey for hover
+NEXT_PUBLIC_COLOR_GOLD_LOGO="#b0b0b0"         # Same as primary for logo accents
+
+# Accent Colors
+NEXT_PUBLIC_COLOR_ACCENT_NAVY="#2d2366"       # Navy blue from "GREY STAR"
+NEXT_PUBLIC_COLOR_ACCENT_RED="#990000"        # Red underline and "FINANCIAL"
+
+# Text & Dark Colors
+NEXT_PUBLIC_COLOR_TEXT_PRIMARY="#2d2366"      # Navy for main headings
+NEXT_PUBLIC_COLOR_TEXT_BLACK="#222"
+NEXT_PUBLIC_COLOR_BG_DARK="#a0a0a0"           # Use very light for dark bg (for a light theme)
+
+# Background Colors (light theme)
+NEXT_PUBLIC_COLOR_BG_WHITE="#ffffff"
+NEXT_PUBLIC_COLOR_BG_LIGHT="#f5f5f5"
+NEXT_PUBLIC_COLOR_BG_LIGHTER="#fafafa"
+NEXT_PUBLIC_COLOR_BG_GOLD_LIGHT="#f0f0f0"     # Very light grey for subtle backgrounds
+
+# Secondary Text Colors
+NEXT_PUBLIC_COLOR_TEXT_SECONDARY="#222"
+NEXT_PUBLIC_COLOR_TEXT_MUTED="#222"
+NEXT_PUBLIC_COLOR_TEXT_FAQ="#222"
+
+# Status Colors
+NEXT_PUBLIC_COLOR_SUCCESS="#00D4AA"
+NEXT_PUBLIC_COLOR_ERROR="#f44336"
+NEXT_PUBLIC_COLOR_ERROR_ALT="#e32"
+
+# UI Element Colors
+NEXT_PUBLIC_COLOR_BORDER="#e0e0e0"
+NEXT_PUBLIC_COLOR_DISABLED_BG="#f5f5f5"
+NEXT_PUBLIC_COLOR_DISABLED_TEXT="#bbb"
+
+# Shadow Opacities
+NEXT_PUBLIC_SHADOW_LIGHT_OPACITY="0.04"
+NEXT_PUBLIC_SHADOW_MEDIUM_OPACITY="0.06"
+NEXT_PUBLIC_SHADOW_STANDARD_OPACITY="0.07"
+NEXT_PUBLIC_SHADOW_HEAVY_OPACITY="0.09"
+NEXT_PUBLIC_SHADOW_DROPDOWN_OPACITY="0.10"
+NEXT_PUBLIC_SHADOW_GOLD_FOCUS_OPACITY="0.08"
+NEXT_PUBLIC_SHADOW_GOLD_HOVER_OPACITY="0.12"
+NEXT_PUBLIC_SHADOW_GOLD_BUTTON_OPACITY="0.15"
+
+# Overlay Opacities
+NEXT_PUBLIC_OVERLAY_HERO_OPACITY="0.6"
+NEXT_PUBLIC_OVERLAY_MOBILE_OPACITY="0.85"
+NEXT_PUBLIC_OVERLAY_ICON_OPACITY="0.06"
